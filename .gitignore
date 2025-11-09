@@ -1,0 +1,21 @@
+# Ignore Sphinx build output
+docs/_build/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+*.log
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
