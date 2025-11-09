@@ -6,9 +6,10 @@
 sphinx_testing documentation
 ============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+This project provides utility functions for computing the weighted average of squares and converting string-based numeric input into usable numeric data. It includes doctests for validation and is designed to support clean, testable Python code.
+.. Add your content using ``reStructuredText`` syntax. See the
+.. `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+.. documentation for details.
 
 
 .. toctree::
