@@ -15,4 +15,6 @@ This project provides utility functions for computing the weighted average of sq
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   content/average-squares-docs
 
